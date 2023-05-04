@@ -1,0 +1,29 @@
+.navbar {
+    flex-direction: column;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    height: 120px;
+}
+
+.navbar ul li a {
+    /* text-align: center; */
+    overflow: hidden;
+}
+
+.navbar ul li {
+    text-align: center;
+    padding: 0 0.1rem;
+
+}
+
+.navbar ul {
+    height: 65px;
+}
+
+
+/* Section  */
+
+.infolar .items{
+    
+  flex-direction: column;
+}
